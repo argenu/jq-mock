@@ -7,3 +7,4 @@ use JQMock\JQMock;
 
 $res = JQMock::execForPath($path, $query);
 ```
+Note: package will no longer be maintained.
