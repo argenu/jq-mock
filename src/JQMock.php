@@ -1,5 +1,7 @@
 <?php
 
+namespace JQMock;
+
 class JQMock {
 
     public function __construct()
