@@ -1,0 +1,14 @@
+{
+    "name": "argenu/jq-mock",
+    "description": "Modern library for using JQ utility with PHP.",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Argenu\\JqMock\\": "src/"
+        }
+    }
+}
